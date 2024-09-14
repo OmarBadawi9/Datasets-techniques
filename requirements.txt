@@ -1,7 +1,0 @@
-Python 3.x
-
-OpenCV
-
-NumPy
-
-PIL
